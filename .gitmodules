@@ -1,0 +1,3 @@
+[submodule "original_periodwave"]
+	path = original_periodwave
+	url = https://github.com/sh-lee-prml/PeriodWave.git
